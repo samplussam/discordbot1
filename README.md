@@ -47,4 +47,4 @@ Project is: In progress
 Followed this guide to learn basic setup: https://www.youtube.com/watch?v=e2iaRVf4sho
 
 ## Contact
-Created by [@samplussam(https://www.samstevens.me/) - feel free to contact me!
+Created by [@samplussam](https://www.samstevens.me/) - feel free to contact me!
