@@ -44,7 +44,7 @@ To-do list:
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Followed this guide to learn basic setup: https://www.youtube.com/watch?v=e2iaRVf4sho
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@samplussam(https://www.samstevens.me/) - feel free to contact me!
